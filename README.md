@@ -1,1 +1,1 @@
-# lumacss-master-qca-explore
+# Qualitative Comparative Analysis (QCA)
